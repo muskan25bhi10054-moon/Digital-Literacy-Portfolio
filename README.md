@@ -109,3 +109,14 @@ Targets and Consequences:
 While anyone can be a target, college students and small-scale online sellers are frequently hit due to high digital activity. The consequences go beyond immediate financial loss; victims often face significant emotional stress and a loss of trust in digital systems, which can hinder their academic and professional digital growth.
 
 
+# Part B: "Stay Safe Online" Prevention Checklist
+To remain secure as a Digital Ambassador, follow these 8 actionable tips:
+-UPI PIN Security: Never enter your UPI PIN to receive money; a PIN is only required to send money.
+-Use 2FA: Enable Two-Factor Authentication (2FA) on all email, banking, and social media accounts.
+-Verify QR Codes: Before scanning a QR code for payment, verify the name of the recipient displayed in the app.
+-Avoid Public Wi-Fi: Never conduct financial transactions or log into sensitive accounts while using public or unsecured Wi-Fi.
+-Check URLs: Always look for the "https://" and the padlock icon before entering details on a website.
+-Strong Passwords: Use a unique, complex password for every account and change your banking passwords every 90 days.
+-Financial Literacy: Regularly check your bank statements for small, unauthorized transactions that may go unnoticed.
+-Reporting Channels: If you are a victim of cybercrime, immediately report it to the National Cyber Crime Portal (cybercrime.gov.in) or call the national Helpline 1930.
+
