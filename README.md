@@ -8,3 +8,19 @@ My infographic is strategically divided into three core sections to address the 
 Reflection:
 Through this process, I realized that being digitally literate is not just a technical requirement but a fundamental part of being a responsible digital citizen. The most challenging aspect was synthesizing complex security information into concise, impactful bullet points that fit the design without cluttering the page. This task improved my ability to communicate technical information visually and reinforced the importance of maintaining a professional online presence.
 
+
+# Task 2: Professional Student Digital Portfolio #
+Platforms Selected:
+For this task, I have established and updated my professional presence on GitHub, LinkedIn, and Kaggle. I chose these specific platforms because they represent the essential "triple threat" for a Computer Science student specializing in Health Informatics: technical code, professional networking, and data science.
+
+Purpose of Each Platform:
+GitHub: This is my primary technical portfolio. My profile README highlights my focus on medical diagnostics and secure health information systems, allowing me to showcase my code to the global developer community.
+
+LinkedIn: I use this for professional networking and career growth. It hosts my formal education details and allows me to connect with industry leaders in digital health.
+
+Kaggle: Since Health Informatics relies heavily on data, Kaggle is vital. It allows me to access healthcare datasets and practice the analytical skills needed to improve patient outcomes through data.
+
+Future Goals:
+Over the next four years, I plan to use these platforms as a living archive of my growth. I will upload my medical-tech projects to GitHub, share my research milestones on LinkedIn, and build a competitive data profile on Kaggle to ensure I am career-ready upon graduation.
+
+
