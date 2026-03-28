@@ -81,6 +81,7 @@ Do's
 3) Network with industry professionals on LinkedIn.
 4) Use professional profile pictures for career sites.
 5) Keep your "Bio" updated with your current skills.
+   
 Don'ts
 1) Don't post sensitive personal data (ID cards, addresses).
 2) Don't engage in or tolerate cyberbullying.
