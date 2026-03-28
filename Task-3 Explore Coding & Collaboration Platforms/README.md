@@ -1,5 +1,6 @@
 # Part A #
-<img width="1901" height="915" alt="Screenshot 2026-03-25 003824" src="https://github.com/user-attachments/assets/5026a73b-27d3-47a3-8e55-7aca7e987192" />
+<img width="1895" height="888" alt="Screenshot 2026-03-25 000949" src="https://github.com/user-attachments/assets/a7ca4860-839d-4b7c-805e-e254593818f4" />
+
 
 # Part B #
 <img width="1895" height="888" alt="Screenshot 2026-03-25 000949" src="https://github.com/user-attachments/assets/9dc5938e-eecd-4c54-8479-04b88a262e71" />
